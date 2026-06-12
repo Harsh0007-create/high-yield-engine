@@ -1,0 +1,1 @@
+declare module 'duck-duck-go-api';
